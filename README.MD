@@ -2,7 +2,6 @@
 
 
 ### Relations
-Customer and Order:
 
 1. Each customer can place multiple orders.
 This is a one-to-many relationship, where one customer can have many orders, but each order belongs to only one customer.
